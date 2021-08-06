@@ -2,6 +2,8 @@
 
 ## Grupo: 10
 ## Integrantes: Felipe Grassi, Mario Junior, Tiago Santos   
+
+### Resolução do exercícios está no arquivo: "solucao.html"
  
 HACKER - DESAFIO EM GRUPO 1
 Hey Hackers!
